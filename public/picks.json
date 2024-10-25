@@ -2,7 +2,6 @@
   {
     "name": "Joshua",
     "fridayPicks": [
-      { "game": "Sharks vs Kings", "pick": "Kings" },
       { "game": "Senators vs Golden Knights", "pick": "Golden Knights" },
       { "game": "Islanders vs Devils", "pick": "Devils" },
       { "game": "Predators vs Blackhawks", "pick": "Predators" },
@@ -194,6 +193,138 @@
       { "game": "Canadiens vs Flyers", "pick": "Canadiens" },
       { "game": "Ducks vs Devils", "pick": "Ducks" },
       { "game": "Senators vs Avalanche", "pick": "Senators" }
+    ],
+    "gamesPlayed": 0,
+    "timesWon": 0
+  },
+  {
+    "name": "Adam",
+    "fridayPicks": [
+      { "game": "Senators vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Islanders vs Devils", "pick": "Devils" },
+      { "game": "Predators vs Blackhawks", "pick": "Blackhawks" },
+      { "game": "Penguins vs Oilers", "pick": "Penguins" }
+    ],
+    "saturdayPicks": [
+      { "game": "Red Wings vs Sabres", "pick": "Sabres" },
+      { "game": "Wild vs Flyers", "pick": "Wild" },
+      { "game": "Utah HC vs Kings", "pick": "Utah HC" },
+      { "game": "Maple Leafs vs Bruins", "pick": "Maple Leafs" },
+      { "game": "Jets vs Flames", "pick": "Jets" },
+      { "game": "Ducks vs Rangers", "pick": "Rangers" },
+      { "game": "Capitals vs Lightning", "pick": "Capitals" },
+      { "game": "Blues vs Canadiens", "pick": "Canadiens" },
+      { "game": "Panthers vs Islanders", "pick": "Panthers" },
+      { "game": "Blackhawks vs Stars", "pick": "Stars" },
+      { "game": "Blue Jackets vs Predators", "pick": "Blue Jackets" },
+      { "game": "Sharks vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Hurricanes vs Kraken", "pick": "Kraken" },
+      { "game": "Penguins vs Canucks", "pick": "Penguins" }
+    ],
+    "sundayPicks": [
+      { "game": "Oilers vs Red Wings", "pick": "Red Wings" },
+      { "game": "Canadiens vs Flyers", "pick": "Canadiens" },
+      { "game": "Ducks vs Devils", "pick": "Devils" },
+      { "game": "Senators vs Avalanche", "pick": "Senators" }
+    ],
+    "gamesPlayed": 0,
+    "timesWon": 0
+  },
+  {
+    "name": "Sadie",
+    "fridayPicks": [
+      { "game": "Senators vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Islanders vs Devils", "pick": "Devils" },
+      { "game": "Predators vs Blackhawks", "pick": "Blackhawks" },
+      { "game": "Penguins vs Oilers", "pick": "Oilers" }
+    ],
+    "saturdayPicks": [
+      { "game": "Red Wings vs Sabres", "pick": "Red Wings" },
+      { "game": "Wild vs Flyers", "pick": "Wild" },
+      { "game": "Utah HC vs Kings", "pick": "Utah HC" },
+      { "game": "Maple Leafs vs Bruins", "pick": "Maple Leafs" },
+      { "game": "Jets vs Flames", "pick": "Jets" },
+      { "game": "Ducks vs Rangers", "pick": "Rangers" },
+      { "game": "Capitals vs Lightning", "pick": "Lightning" },
+      { "game": "Blues vs Canadiens", "pick": "Blues" },
+      { "game": "Panthers vs Islanders", "pick": "Panthers" },
+      { "game": "Blackhawks vs Stars", "pick": "Stars" },
+      { "game": "Blue Jackets vs Predators", "pick": "Predators" },
+      { "game": "Sharks vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Hurricanes vs Kraken", "pick": "Hurricanes" },
+      { "game": "Penguins vs Canucks", "pick": "Penguins" }
+    ],
+    "sundayPicks": [
+      { "game": "Oilers vs Red Wings", "pick": "Oilers" },
+      { "game": "Canadiens vs Flyers", "pick": "Canadiens" },
+      { "game": "Ducks vs Devils", "pick": "Ducks" },
+      { "game": "Senators vs Avalanche", "pick": "Avalanche" }
+    ],
+    "gamesPlayed": 0,
+    "timesWon": 0
+  },
+  {
+    "name": "Andrew",
+    "fridayPicks": [
+      { "game": "Senators vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Islanders vs Devils", "pick": "Islanders" },
+      { "game": "Predators vs Blackhawks", "pick": "Predators" },
+      { "game": "Penguins vs Oilers", "pick": "Oilers" }
+    ],
+    "saturdayPicks": [
+      { "game": "Red Wings vs Sabres", "pick": "Sabres" },
+      { "game": "Wild vs Flyers", "pick": "Wild" },
+      { "game": "Utah HC vs Kings", "pick": "Kings" },
+      { "game": "Maple Leafs vs Bruins", "pick": "Maple Leafs" },
+      { "game": "Jets vs Flames", "pick": "Flames" },
+      { "game": "Ducks vs Rangers", "pick": "Rangers" },
+      { "game": "Capitals vs Lightning", "pick": "Lightning" },
+      { "game": "Blues vs Canadiens", "pick": "Canadiens" },
+      { "game": "Panthers vs Islanders", "pick": "Panthers" },
+      { "game": "Blackhawks vs Stars", "pick": "Stars" },
+      { "game": "Blue Jackets vs Predators", "pick": "Predators" },
+      { "game": "Sharks vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Hurricanes vs Kraken", "pick": "Hurricanes" },
+      { "game": "Penguins vs Canucks", "pick": "Canucks" }
+    ],
+    "sundayPicks": [
+      { "game": "Oilers vs Red Wings", "pick": "Oilers" },
+      { "game": "Canadiens vs Flyers", "pick": "Canadiens" },
+      { "game": "Ducks vs Devils", "pick": "Devils" },
+      { "game": "Senators vs Avalanche", "pick": "Avalanche" }
+    ],
+    "gamesPlayed": 0,
+    "timesWon": 0
+  },
+  {
+    "name": "Clifford",
+    "fridayPicks": [
+      { "game": "Senators vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Islanders vs Devils", "pick": "Devils" },
+      { "game": "Predators vs Blackhawks", "pick": "Blackhawks" },
+      { "game": "Penguins vs Oilers", "pick": "Oilers" }
+    ],
+    "saturdayPicks": [
+      { "game": "Red Wings vs Sabres", "pick": "Red Wings" },
+      { "game": "Wild vs Flyers", "pick": "Flyers" },
+      { "game": "Utah HC vs Kings", "pick": "Utah HC" },
+      { "game": "Maple Leafs vs Bruins", "pick": "Maple Leafs" },
+      { "game": "Jets vs Flames", "pick": "Flames" },
+      { "game": "Ducks vs Rangers", "pick": "Rangers" },
+      { "game": "Capitals vs Lightning", "pick": "Lightning" },
+      { "game": "Blues vs Canadiens", "pick": "Canadiens" },
+      { "game": "Panthers vs Islanders", "pick": "Panthers" },
+      { "game": "Blackhawks vs Stars", "pick": "Stars" },
+      { "game": "Blue Jackets vs Predators", "pick": "Blue Jackets" },
+      { "game": "Sharks vs Golden Knights", "pick": "Golden Knights" },
+      { "game": "Hurricanes vs Kraken", "pick": "Hurricanes" },
+      { "game": "Penguins vs Canucks", "pick": "Penguins" }
+    ],
+    "sundayPicks": [
+      { "game": "Oilers vs Red Wings", "pick": "Oilers" },
+      { "game": "Canadiens vs Flyers", "pick": "Flyers" },
+      { "game": "Ducks vs Devils", "pick": "Devils" },
+      { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
     "gamesPlayed": 0,
     "timesWon": 0

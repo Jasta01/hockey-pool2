@@ -180,4 +180,20 @@ td {
   .leaderboard-title {
     font-size: 20px;
   }
+
+  /* Total Pot Styling */
+.total-pot {
+  text-align: center;
+  font-size: 24px;
+  color: #0056b3;
+  font-weight: bold;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #eef5ff;
+  border-radius: 5px;
+  border: 1px solid #003366;
 }
+
+}
+
+
