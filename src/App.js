@@ -36,6 +36,10 @@ function App() {
     <div className="App">
       <h1 className="app-title">Hockey Pool</h1>
 
+      <div className="total-pot">
+        Total Pot: $200
+      </div>
+
       {/* Player Picks Table */}
       <table className="picks-table">
         <thead>
