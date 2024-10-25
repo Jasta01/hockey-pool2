@@ -329,7 +329,8 @@
     "gamesPlayed": 0,
     "timesWon": 0
   },
-      "name": "Landon",
+  {
+    "name": "Landon",
     "fridayPicks": [
       { "game": "Senators vs Golden Knights", "pick": "Senators" },
       { "game": "Islanders vs Devils", "pick": "Devils" },
