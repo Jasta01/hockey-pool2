@@ -37,7 +37,7 @@ function App() {
       <h1 className="app-title">Hockey Pool</h1>
 
       <div className="total-pot">
-        Total Pot: $200
+        Total Pot: $220
       </div>
 
       {/* Player Picks Table */}
