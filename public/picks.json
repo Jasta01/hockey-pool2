@@ -29,8 +29,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 14
+    "gamesPlayed": 22,
+    "timesWon": 17
   },
   {
     "name": "John",
@@ -62,8 +62,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 12
+    "gamesPlayed": 22,
+    "timesWon": 14
   },
   {
     "name": "Wrinkles",
@@ -95,8 +95,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Senators" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 10
+    "gamesPlayed": 22,
+    "timesWon": 11
   },
   {
     "name": "Dave Rawding",
@@ -128,8 +128,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 12
+    "gamesPlayed": 22,
+    "timesWon": 16
   },
   {
     "name": "Bunsey",
@@ -161,8 +161,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 15
+    "gamesPlayed": 22,
+    "timesWon": 18
   },
   {
     "name": "Dean / JD",
@@ -194,8 +194,8 @@
       { "game": "Ducks vs Devils", "pick": "Ducks" },
       { "game": "Senators vs Avalanche", "pick": "Senators" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 13
+    "gamesPlayed": 22,
+    "timesWon": 14
   },
   {
     "name": "Adam",
@@ -227,8 +227,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Senators" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 8
+    "gamesPlayed": 22,
+    "timesWon": 10
   },
   {
     "name": "Sadie",
@@ -260,8 +260,8 @@
       { "game": "Ducks vs Devils", "pick": "Ducks" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 10
+    "gamesPlayed": 22,
+    "timesWon": 13
   },
   {
     "name": "Andrew",
@@ -293,8 +293,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 15
+    "gamesPlayed": 22,
+    "timesWon": 19
   },
   {
     "name": "Clifford",
@@ -326,8 +326,8 @@
       { "game": "Ducks vs Devils", "pick": "Devils" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 10
+    "gamesPlayed": 22,
+    "timesWon": 13
   },
   {
     "name": "Landon",
@@ -359,7 +359,7 @@
       { "game": "Ducks vs Devils", "pick": "Ducks" },
       { "game": "Senators vs Avalanche", "pick": "Avalanche" }
     ],
-    "gamesPlayed": 18,
-    "timesWon": 8
+    "gamesPlayed": 22,
+    "timesWon": 10
   }
 ]
